@@ -1,9 +1,11 @@
 {
   "name": "replyradar",
-  "version": "0.1.0",
+  "version": "0.1.0-canary.1791917532343",
   "private": true,
   "type": "module",
-  "engines": { "node": ">=22" },
+  "engines": {
+    "node": ">=22"
+  },
   "dependencies": {
     "express": "4.22.3",
     "react": "19.3.0",
